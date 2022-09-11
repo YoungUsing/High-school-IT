@@ -1,0 +1,1 @@
+Button(root, text="²éÑ¯ÏßÂ·", relief="solid",width=10,height=2).pack()

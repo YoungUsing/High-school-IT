@@ -1,0 +1,1 @@
+print('·¢»õ:'+listque.pop(0))
